@@ -1,3 +1,3 @@
-This is readme file
+This is js file
 minor changes
 again minor changes
